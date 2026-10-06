@@ -2,9 +2,9 @@
 
 ## Projects Introduction
 
-As the hospital’s business grows, MedicCare Clinic have attracts more patients and generates an increasing amount of data.
+As the clinic’s business grows, MedicCare Clinic have attracts more patients and generates an increasing amount of data.
 
-To manage the growing volume of data, the hospital has decided to build a data warehouse.
+To manage the growing volume of data, the clinic has decided to build a data warehouse.
 
 Hence, this project aims to design a data pipeline that extracts data from CSV files, transforms and cleans the data using Python, and loads the processed data into a PostgreSQL database for storage and future analysis.
 
